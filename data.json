@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": "hip-hop-tamiza-feb25",
+      "title": "HIP HOP TAMIZA RETURN OF THE DRAGON MACHI",
+      "posted_at": "2023-02-25T22:16:00",
+      "combined_insights": {
+        "engagement": {
+          "likes": 754,
+          "comments": 5,
+          "saves": 46
+        },
+        "reach": {
+          "total": 19060,
+          "impressions": 23677
+        },
+        "profile_activity": {
+          "total": 716,
+          "external_link_taps": 550,
+          "profile_visits": 157,
+          "follows": 9,
+          "business_address_taps": 0
+        }
+      },
+      "paid_insights": {
+        "reach": {
+          "total": 20873,
+          "impressions": 29144
+        },
+        "engagement": {
+          "likes_and_reactions": 281,
+          "saves": 14,
+          "comments": 2
+        },
+        "profile_activity": {
+          "profile_visits": 111,
+          "follows": 7,
+          "external_link_taps": 6
+        },
+        "goal": {
+          "type": "website_visits",
+          "total": 481,
+          "cost_per_conversion": "SGD0.03"
+        },
+        "campaign_details": {
+          "status": "Finishes in 5 days",
+          "spend": "SGD13.99",
+          "budget": "SGD48.00",
+          "duration": "6 days",
+          "audience": "Sri Lanka"
+        },
+        "demographics": {
+          "gender": {
+            "men": 77.8,
+            "women": 22.0
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "last_updated": "2023-02-26T12:00:00"
+  }
+}
